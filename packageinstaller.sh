@@ -2,6 +2,7 @@
 
 #Run as root
 #installs a bunch of packages
+#eventually this will be edited to run through a loop, I don't know enough bash yet to do so now but this gets the job done. 
 
 sudo apt update
 echo -e
